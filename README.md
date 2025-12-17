@@ -1,5 +1,5 @@
 BEB Morphotypes Predictor
-This repository provides a Python-based workflow to predict BEBs (Beaches in Estuaries and Bays) morphotypes (concave, linear, or convex) based on geomorphic and hydrodynamic variables. The notebook integrates multiple meaningful parameters into a single Morphotype Predictor Score (Yₘ) using a supervised linear weighting approach.
+This repository provides a Python-based workflow to predict BEBs (Beaches in Estuaries and Bays) morphotypes (concave, linear, or convex) based on geomorphic and hydrodynamic variables. The notebook integrates multiple meaningful parameters into a single Morphotype Predictor Score (Yₘ) using a supervised linear weighting approach. You will find three notebooks, calibration, validation, and applicatione. Use the applicatione one. 
 
 1. Overview of the Workflow
 The process follows four main stages:
