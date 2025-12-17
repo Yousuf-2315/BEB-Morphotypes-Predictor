@@ -57,7 +57,7 @@ G. Swell Potentiality (SP)
 Represents offshore wave energy potential impacting the system.
 •	Normalized using observed minimum and maximum values
 
-4. Morphostate Predictor (Yₘ)
+4. Morphotypes Predictor (Yₘ)
 All parameters are combined using a linear weighted model:
 Yₘ = Σ (ωᵢ · Xᵢ) + β₀
 Where: - Xᵢ are normalized parameters (SEA, BEA, EWAR, FADE, MD, ICS, SP) - ωᵢ are regression-derived weights - β₀ is the intercept
