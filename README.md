@@ -16,18 +16,18 @@ Required sheet name: data_application
 Required Columns
 The following columns must be present in the Excel sheet:
 •	BEBs – Beach name
-•	SD – Dominant swell direction (degrees)
-•	ED – Entrance direction (degrees)
-•	Beach Aspect – Beach orientation (degrees)
-•	LC (m) – Curvilinear coastline length
-•	LS (m) – Straight-line coastline length
+•	SD – Swell direction (degrees)
+•	EO – Entrance Orientation (degrees)
+•	BO - Beach orientation (degrees)
+•	AL – Actual length of the beach shoreline (meter)
+•	SL – Straight length of the beach shoreline (meter)
 •	Barrier Effectiveness – Normalised barrier index (0–1)
-•	Depth_m – Mean water depth (m)
-•	Entrance Width (km) – Entrance width
-•	Bay Area (km2) – Bay/estuary area
-•	Distance_from_entrance – Distance of beach from entrance (m)
-•	Fetch – Effective fetch length (m)
-•	SH – Significant wave height or swell proxy
+•	ED - Embayment Depth (m)
+•	EW - Entrance Width (km)
+•	BA - Bay/Estuary Area (km2)
+•	BEBs Distance from Entrance (m)
+•	Longest Fetch (m)
+•	SH – Swell Height (m)
 
 ## 3. Parameter Definitions
 A. Swell–Entrance Alignment (SEA)
