@@ -11,7 +11,7 @@ The process follows four main stages:
 
 ## 2. Input Data
 The model reads data from an Excel file:
-Data_BEBs.xlsx
+Sample Data.xlsx
 Required sheet name: data_application
 Required Columns
 The following columns must be present in the Excel sheet:
